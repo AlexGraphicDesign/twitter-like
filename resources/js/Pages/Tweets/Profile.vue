@@ -34,7 +34,6 @@
 
 <script>
     import AppLayout from '@/Layouts/AppLayout.vue'
-    import TweetCreate from '@/Pages/Tweets/Create.vue'
 
     export default {
 
